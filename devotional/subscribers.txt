@@ -1,0 +1,4 @@
+# Jesse Rich Ministries daily devotional email list
+# One address per line. Lines starting with # are ignored.
+# Send the daily devotional to every address below (BCC).
+kbwarren10@yahoo.com
